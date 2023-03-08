@@ -11,7 +11,10 @@ Angelica Coral Paredes Valdez
 leidy montes
 
 Juana Antonia Echeverria Echeverria
+<<<<<<< HEAD
 
+=======
+>>>>>>> ea0e9ec3433e594477974879e2f43a29cbf234ac
 >>>>>>> 1a0021f9a09c2f003f2cf94a426b6485589cb07f
 >>>>>>> 57dac12ee329967973802f3fe22a0e2939d61e88
 =======
