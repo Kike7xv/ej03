@@ -5,5 +5,9 @@ Roger Ismael Chin Berdejo
 mario pat
 
 Eladio Catzin Dzul
+<<<<<<< HEAD
 >>>>>>> 1a0021f9a09c2f003f2cf94a426b6485589cb07f
 >>>>>>> 57dac12ee329967973802f3fe22a0e2939d61e88
+=======
+
+>>>>>>> a854011b2bdbef021bca8b97b7c9103c46f5e0ac
