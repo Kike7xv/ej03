@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Noe Landaverde Saavedra
 =======
 Eladio Catzin Dzul
@@ -13,7 +11,7 @@ Roger Ismael Chin Berdejo
 mario pat
 
 Eladio Catzin Dzul
-<<<<<<< HEAD
+
 >>>>>>> 1a0021f9a09c2f003f2cf94a426b6485589cb07f
 >>>>>>> 57dac12ee329967973802f3fe22a0e2939d61e88
 =======
